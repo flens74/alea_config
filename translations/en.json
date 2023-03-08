@@ -1,0 +1,14 @@
+{
+    "configurations": {
+        "host": "Host",
+        "port": "Port",
+        "ssl": "SSL",
+        "verify_ssl": "Verify SSL",
+        "bearer_token": "Bearer Token"
+    },
+    "errors": {
+        "invalid_credentials": "Invalid credentials"
+    },
+    "title": "Alexa Config",
+    "description": "Allows you to configure your Alexa devices and routines."
+}
