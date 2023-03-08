@@ -1,3 +1,5 @@
+"""Constants for the alexa_config integration."""
+
 DOMAIN = "alexa_config"
 PLATFORMS = ["config"]
 ATTR_DEVICES = "devices"
@@ -73,4 +75,3 @@ CONF_ENTITY_TRANSLATIONS = "entity_translations"
 CONF_ENTITY_CONFIGS = "entity_configs"
 CONF_DESCRIPTIONS = "descriptions"
 CONF_DISPLAY_CATEGORIES_VALUES = "display_categories_values"
-
