@@ -1,0 +1,11 @@
+{
+    "domain": "alexa_config",
+    "name": "Alexa Config",
+    "documentation": "https://github.com/flens74/alexa_config",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": ["requests==2.26.0"],
+    "version": "0.1.0",
+    "issue_tracker": "https://github.com/flens74/alexa_config/issues",
+    "config_flow": false
+}
